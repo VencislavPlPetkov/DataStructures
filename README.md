@@ -1,2 +1,2 @@
 # DataStructures
-Data Structure Implementations
+Linear, Tree and Hashing Data Structure Implementations
